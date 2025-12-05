@@ -1,2 +1,2 @@
 # Portafolio-de-evidencias-Estructura-de-Datos
-Este repositorio tiene como objetivo recopilar mis actividades de la asignatura de Estructura de Datos cursada en mi programa de estudio universitario.
+Este repositorio tiene como propósito recopilar mis actividades realizadas en la asignatura de Estructura de Datos (agosto - diciembre de 2025).
